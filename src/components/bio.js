@@ -61,6 +61,13 @@ const Bio = () => {
           You should follow him on Twitter
         </a>
       </p>
+      <p>
+        대구에 사는 <strong>이찬영</strong>입니다.
+        {` `}
+        <a href={`https://twitter.com/${social.twitter}`}>
+          You should follow him on Twitter
+        </a>
+      </p>
     </div>
   )
 }
