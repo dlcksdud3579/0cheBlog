@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `찬영의 블로그 입니다.`,
     author: `이찬영`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: '대구살고 컴퓨터하는 학생',
+    siteUrl: `https://chanyoung-new-blog.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      facebook: 'profile.php?id=100007747959073',
     },
   },
   plugins: [

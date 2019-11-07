@@ -25,7 +25,7 @@ const Bio = () => {
         siteMetadata {
           author
           social {
-            twitter
+            facebook
           }
         }
       }
@@ -53,19 +53,19 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
+      {/* <p>
         Written by <strong>{author}</strong> who lives and works in San
         Francisco building useful things.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
         </a>
-      </p>
+      </p> */}
       <p>
-        대구에 사는 <strong>이찬영</strong>입니다.
+        대구에 사는 <strong>{author}</strong>입니다.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <a href={`https://facebook.com/${social.facebook}`}>
+          facebook  
         </a>
       </p>
     </div>
