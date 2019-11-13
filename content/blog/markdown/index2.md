@@ -8,8 +8,11 @@ date: 2019.11.13
  - 크롬 시크릿 탭으로 실행한 경우 인증 정보가 넘어 오며 잘 동작하는 것을 확인
  - 자네이버 웨일에서 또한 정상 작동한다.
 
+#  문제 해결
+ 1. 크롬 데이터 삭제 와 모든 캐시를 삭제한다. 
+ -  기본 브
 > Written with [StackEdit](https://ㄴㅅstackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTA1OTA3OCwtMTI0MTc2MTExLC03OD
-U2ODM5ODksOTE3NDAyNTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNzkxMTQ0MywxMTAxMDU5MDc4LC0xMj
+QxNzYxMTEsLTc4NTY4Mzk4OSw5MTc0MDI1MF19
 -->
