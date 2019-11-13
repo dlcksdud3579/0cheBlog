@@ -14,9 +14,10 @@ date: 2019.11.13
  3. 크롬을 기본 브라우저로 설치
  4. 깃허브랑 연관된 모든 어플을 제거 (저는 fastgithub 어플을 삭제 하였습니다.)
  5. 다시 연결 을 시도 해보세요 
- 6, 저는 이렇게 해결 하였지만 다른 문제일수도 있습니다.
+ 6, 저는 이렇게 해결 하였지만 다른 문제일수도 있습니다.-  기본 브
 > Written with [StackEdit](https://ㄴㅅstackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM0OTI0MDEsMTEwMTA1OTA3OCwtMT
-I0MTc2MTExLC03ODU2ODM5ODksOTE3NDAyNTBdfQ==
+eyJoaXN0b3J5IjpbOTM0NzIxOTUwLC0xNzkzNDkyNDAxLDExMD
+EwNTkwNzgsLTEyNDE3NjExMSwtNzg1NjgzOTg5LDkxNzQwMjUw
+XX0=
 -->
