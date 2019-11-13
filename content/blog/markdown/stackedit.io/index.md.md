@@ -13,11 +13,10 @@ description: stackedit.io 사용하자
  -  기본적 인 마크다운 에디터 단축키를 제공 한다.
  -  단 안드로이드 환경에서 깃허브 연동에는 약간의 문제가 발생하는 듯 한데
 # 단점
-- 안드로이드 환경에서는 워크페이스 변경 할때마다 크롬 웹페이지로 새창으로 켜지기 때문에 매우불편 (크롬 웹에서 앱을 종료후 ) 
+- 안드로이드 환경에서는 워크페이스 변경 할때마다 크롬 웹페이지로 새창으로 켜지기 때문에 매우불편 (크롬 웹에서 앱을 종료후 다시 stackEdit으로 키기를 누루면 앱으로 원하는 워크 페이스 사용가능 ) 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM1NzY2MjAsLTEwMDg1MzE0MjZdfQ
-==
+eyJoaXN0b3J5IjpbMjA0MzAzODU2MywtMTAwODUzMTQyNl19
 -->
