@@ -1,11 +1,14 @@
 ---
+title: 마크다운 에디터 stackedit.io
+data: 2019.11.13
+description: stackedit.io 사용하자
 
 ---
+# stackedit.io 
 
-# 마크 다운 에디터 추천
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc0MDk3MzddfQ==
+eyJoaXN0b3J5IjpbLTM3MDIwNjAyNF19
 -->
