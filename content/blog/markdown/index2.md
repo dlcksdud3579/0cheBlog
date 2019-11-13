@@ -12,9 +12,11 @@ date: 2019.11.13
  1. 크롬 데이터 삭제 와 모든 캐시를 삭제한다. 
  2. stackedit.io 를 크롬 어플로 바탕화면의 설치
  3. 크롬을 기본 브라우저로 설치
- 4. 깃허브랑 연관된 모든 어플을 제거 (저는 ㄹ)
+ 4. 깃허브랑 연관된 모든 어플을 제거 (저는 fastgithub 어플을 삭제 하였습니다.)
+ 5. 다시 연결 을 시도 해보세요 
+ 6, 저는 이렇게 해결 하였지만 다른 문제일수도 있습니다.
 > Written with [StackEdit](https://ㄴㅅstackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQwNDc0MzAsMTEwMTA1OTA3OCwtMT
+eyJoaXN0b3J5IjpbLTE3OTM0OTI0MDEsMTEwMTA1OTA3OCwtMT
 I0MTc2MTExLC03ODU2ODM5ODksOTE3NDAyNTBdfQ==
 -->
