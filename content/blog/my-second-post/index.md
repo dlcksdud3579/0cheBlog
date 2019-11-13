@@ -1,6 +1,7 @@
 ---
 title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
+
 ---
 
 Wow! I love blogging so much already.
@@ -11,3 +12,6 @@ egg yolk will be less rich."?
 ([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
 
 Yeah, I didn't either.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MjYwMjQwODJdfQ==
+-->
