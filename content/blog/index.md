@@ -1,6 +1,6 @@
 ---
 title: 안드로이드애서 stackedit 깃허브 연동  
-date: 2019.11.13
+date: "2019-11-13"
 
 ---
 # 문제 
@@ -17,5 +17,5 @@ date: 2019.11.13
  6, 저는 이렇게 해결 하였지만 다른 문제일수도 있습니다.-  기본 브
 > Written with [StackEdit](https://ㄴㅅstackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0NzIxOTUwXX0=
+eyJoaXN0b3J5IjpbMTAzMDUxMjI0Miw5MzQ3MjE5NTBdfQ==
 -->
