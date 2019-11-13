@@ -1,6 +1,6 @@
 ---
 title: 마크다운 에디터 stackedit.io
-data: "2019-11-13"
+date: "2019-11-13"
 description: stackedit.io 사용하자
 
 ---
