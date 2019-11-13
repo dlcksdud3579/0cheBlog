@@ -1,6 +1,6 @@
 ---
 title: 마크다운 에디터 stackedit.io
-data: 2019.11.13
+data: 2019-11-13
 description: stackedit.io 사용하자
 
 ---
@@ -18,5 +18,5 @@ description: stackedit.io 사용하자
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzAzODU2M119
+eyJoaXN0b3J5IjpbMTEwODc2MzU4N119
 -->
