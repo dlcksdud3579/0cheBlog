@@ -10,9 +10,11 @@ date: 2019.11.13
 
 #  문제 해결
  1. 크롬 데이터 삭제 와 모든 캐시를 삭제한다. 
- -  기본 브
+ 2. stackedit.io 를 크롬 어플로 바탕화면의 설치
+ 3. 크롬을 기본 브라우저로 설치
+ 4. 깃허브랑 연관된 모든 어플을 제거 (저는 ㄹ)
 > Written with [StackEdit](https://ㄴㅅstackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkxMTQ0MywxMTAxMDU5MDc4LC0xMj
-QxNzYxMTEsLTc4NTY4Mzk4OSw5MTc0MDI1MF19
+eyJoaXN0b3J5IjpbLTE1ODQwNDc0MzAsMTEwMTA1OTA3OCwtMT
+I0MTc2MTExLC03ODU2ODM5ODksOTE3NDAyNTBdfQ==
 -->
