@@ -1,6 +1,7 @@
 ---
 title: 홈페이지 변경 사항
 date: "2019-11-14"
+description: 홈페이지 변경할것
 
 ---
  # ToDoList  
@@ -15,5 +16,5 @@ date: "2019-11-14"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ5Mjg4OTBdfQ==
+eyJoaXN0b3J5IjpbNDQxMzIyNjEwXX0=
 -->
