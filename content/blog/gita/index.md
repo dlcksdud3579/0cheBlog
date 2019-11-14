@@ -1,12 +1,13 @@
 ---
-title: 기타등등 
+title: 경북 대학교 졸업 준비 
 date: "2019-11-14"
 
 ---
+# 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTk3MzcxN119
+eyJoaXN0b3J5IjpbOTExMTQ2MzcyXX0=
 -->
