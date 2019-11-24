@@ -1,7 +1,7 @@
 ---
 title:  small meeting tiny meeting Remake 계획
 data: "2019-11-24"
-description:  SMTM을 업데이트
+description:  SMTM(교회 미팅 관리 앱)을 업데이트
 
 ---
 ### DoList
@@ -13,9 +13,9 @@ description:  SMTM을 업데이트
  - [ ] type script 적용하기 
  - [ ] 코드 리뷰 하기
  - [ ]  자동으로 액셀로 데이터 추출하기 
-  
+ - [ ] 모바일에 적용 되도록 앱으로 구현(크롬 앱?, 안드앱?)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODk1MTgwMF19
+eyJoaXN0b3J5IjpbLTQ5Mzg1OTMxOV19
 -->
