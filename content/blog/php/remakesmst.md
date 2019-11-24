@@ -8,10 +8,14 @@ description:  SMTM을 업데이트
  
  - [ ]  현재의 데이터 기능을 여러 페이지로 구분하기(출석부, 메뉴, 메모, 투표, 사다리타기)
  - [ ]  모바일 환경에 맞는 UI디자인 다시 하기  
- - [ ]  초대 하기 기능 
+ - [ ]  초대 하기 기능 업데이트 
+ - [ ]  foot 자동 수정 또는 제거 
+ - [ ] type script 적용하기 
+ - [ ] 코드 리뷰 하기
+  
   
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNjUyMzA1XX0=
+eyJoaXN0b3J5IjpbLTg4OTAxNzE3NF19
 -->
