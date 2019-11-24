@@ -6,8 +6,11 @@ description:  SMTM을 업데이트
 ---
 ### DoList
  
+ - [ ]  핵심 데이터 관리 
+ - [ ]  
+  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM2MjQ1NDVdfQ==
+eyJoaXN0b3J5IjpbLTE1NzQ3NjA2OTZdfQ==
 -->
