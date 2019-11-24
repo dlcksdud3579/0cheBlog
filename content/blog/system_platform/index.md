@@ -2,6 +2,7 @@
 title: CI/CD 란?
 date: "2019-11-09"
 description: CI/CD 에 대해 알아보자 
+
 ---
 
 ## 1. 개념
@@ -36,3 +37,6 @@ description: CI/CD 에 대해 알아보자
 
 > 참고 사이트  
     -www.onlywis.tistory.com/9
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI5MTk5ODI0Nl19
+-->
