@@ -10,12 +10,12 @@ description: mysql 실행하기
  `sudo apt-get install -y mysql-server` 명령어로 설치 할수 있다 
 ### 접속 
 `mysql -u root -p`로 mysql 실행이 가능 하나 root 비밀 번호를 설정해야 합니다.
-  -초기 비밀번호 설정 방법: 
+  -초기 비밀번호 설정 방법: [link]([https://zetawiki.com/wiki/MySQL_root_%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C_%EB%B6%84%EC%8B%A4](https://zetawiki.com/wiki/MySQL_root_%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C_%EB%B6%84%EC%8B%A4))
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg4MDQ1MzRdfQ==
+eyJoaXN0b3J5IjpbNzY3NjgwNzcwXX0=
 -->
