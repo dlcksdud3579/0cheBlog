@@ -18,13 +18,14 @@ description: mysql 실행하기
  -  insert, drop, update 등 여러 명령어사 있음 
  -  자세한 명령어 [w3schools ](https://www.w3schools.com/sql/default.asp)
  
-### phpadmin 
- -좀더 쉽게 관리하기 위해서 
+### phpMyAdmin 
+ -좀더 쉽게 관리하기 위해서 phpMyadmin을 설치 합시다. 
+ - 설치 방법 `apt-get install -y phpmyadmin`
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mjk0MjM1OSwtMTc1NjEwNjMwN119
+eyJoaXN0b3J5IjpbLTk4MTU3MTYyNiwtMTc1NjEwNjMwN119
 -->
