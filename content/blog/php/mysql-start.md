@@ -16,7 +16,8 @@ description: mysql 실행하기
  - 데이터베이스 사용: `USE DBname`
  - 테이블 생성 `CREATE TABLE tableName ()`
  -  insert, drop, update 등 여러 명령어사 있음 
- -  자세한 명령어 [링크 ]()
+ -  자세한 명령어 [링크 ]([https://kwonnam.pe.kr/wiki/database/mysql/basic](https://kwonnam.pe.kr/wiki/database/mysql/basic))
+ -
 ### phpadmin 
 
 
@@ -24,5 +25,6 @@ description: mysql 실행하기
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MDc1MDc4LC0xNzU2MTA2MzA3XX0=
+eyJoaXN0b3J5IjpbLTExMTEzNDg1MzIsLTE3NTYxMDYzMDddfQ
+==
 -->
