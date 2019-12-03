@@ -21,11 +21,13 @@ description: mysql 실행하기
 ### phpMyAdmin 
  -좀더 쉽게 관리하기 위해서 phpMyadmin을 설치 합시다. 
  - 설치 방법 `apt-get install -y phpmyadmin`
+ - 실행 방법 `https:[URL]/phpmyadmin`
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTU3MTYyNiwtMTc1NjEwNjMwN119
+eyJoaXN0b3J5IjpbLTEwNjM1OTg1ODAsLTE3NTYxMDYzMDddfQ
+==
 -->
