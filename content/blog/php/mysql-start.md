@@ -16,14 +16,15 @@ description: mysql 실행하기
  - 데이터베이스 사용: `USE DBname`
  - 테이블 생성 `CREATE TABLE tableName ()`
  -  insert, drop, update 등 여러 명령어사 있음 
- -  자세한 명령어 [링크 ](https://www.w3schools.com/sql/default.asp)
- -
+ -  자세한 명령어 [w3schools ](https://www.w3schools.com/sql/default.asp)
+ 
 ### phpadmin 
+ -좀더 쉽게 관리하기 위해서 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTY5NDc0LC0xNzU2MTA2MzA3XX0=
+eyJoaXN0b3J5IjpbMTE4Mjk0MjM1OSwtMTc1NjEwNjMwN119
 -->
