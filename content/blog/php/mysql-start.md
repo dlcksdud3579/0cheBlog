@@ -24,6 +24,8 @@ description: mysql 실행하기
 ### phpMyAdmin 
  -좀더 쉽게 관리하기 위해서 phpMyadmin을 설치 합시다. 
  - 설치 방법 `apt-get install -y phpmyadmin`
+ (설치 오류시 `apt-get update` 이후 다시 시도 해볼것) 
+ - 실행 하기전 아파치 서버를 재실행  
  - 실행 방법 `https:[URL]/phpmyadmin`
 
 
@@ -31,7 +33,7 @@ description: mysql 실행하기
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NjAyNDc3LDUyNTA1MTAzOCwtMTIwNz
-U5NzE3NiwzMTI3NzIyMjAsLTEwNjM1OTg1ODAsLTE3NTYxMDYz
-MDddfQ==
+eyJoaXN0b3J5IjpbLTEwNjYwNjM2ODEsNTI1MDUxMDM4LC0xMj
+A3NTk3MTc2LDMxMjc3MjIyMCwtMTA2MzU5ODU4MCwtMTc1NjEw
+NjMwN119
 -->
