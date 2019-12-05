@@ -11,7 +11,7 @@ description: mysql 실행하기+phpmyadmin 사용
 ### 접속 
 `mysql -u root -p`로 mysql 실행이 가능 하나 root 비밀 번호를 설정해야 합니다.
   -초기 비밀번호 설정 방법: [제타위키 링크 ]([https://zetawiki.com/wiki/MySQL_root_%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C_%EB%B6%84%EC%8B%A4](https://zetawiki.com/wiki/MySQL_root_%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C_%EB%B6%84%EC%8B%A4))
- 
+
 ### 기본 명령어 
  - 데이터베이스  생성: `CREATE DATABASE DBname`
  - 데이터베이스 사용: `USE DBname`
@@ -23,7 +23,7 @@ description: mysql 실행하기+phpmyadmin 사용
  -  자세한 명령어 [w3schools ](https://www.w3schools.com/sql/default.asp)
  
 ### phpMyAdmin 
- -좀더 쉽게 관리하기 위해서 phpMyadmin을 설치 합시다. 
+ - 좀더 쉽게 관리하기 위해서 phpMyadmin을 설치 합시다. 
  - 설치 방법 `apt-get install -y phpmyadmin`
  (설치 오류시 `apt-get update` 이후 다시 시도 해볼것) 
  - 실행 하기전 아파치 서버를 재실행  
@@ -33,7 +33,7 @@ description: mysql 실행하기+phpmyadmin 사용
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk3NTUwNDcsLTEwNjYwNjM2ODEsNT
-I1MDUxMDM4LC0xMjA3NTk3MTc2LDMxMjc3MjIyMCwtMTA2MzU5
-ODU4MCwtMTc1NjEwNjMwN119
+eyJoaXN0b3J5IjpbLTI3NzA5MTcyNywtMTA2NjA2MzY4MSw1Mj
+UwNTEwMzgsLTEyMDc1OTcxNzYsMzEyNzcyMjIwLC0xMDYzNTk4
+NTgwLC0xNzU2MTA2MzA3XX0=
 -->
