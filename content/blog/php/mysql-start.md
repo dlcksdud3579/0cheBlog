@@ -1,7 +1,7 @@
 ---
 title: mysql 시작 하기 
 date: "2019-12-03"
-description: mysql 실행하기
+description: mysql 실행하기+phpmyadmin 
 
 ---
 개발 환경 : 구름 ide 
@@ -32,7 +32,7 @@ description: mysql 실행하기
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzE0OTE1NCwtMTA2NjA2MzY4MSw1Mj
-UwNTEwMzgsLTEyMDc1OTcxNzYsMzEyNzcyMjIwLC0xMDYzNTk4
-NTgwLC0xNzU2MTA2MzA3XX0=
+eyJoaXN0b3J5IjpbLTEzNDc5NTg2MzYsLTEwNjYwNjM2ODEsNT
+I1MDUxMDM4LC0xMjA3NTk3MTc2LDMxMjc3MjIyMCwtMTA2MzU5
+ODU4MCwtMTc1NjEwNjMwN119
 -->
