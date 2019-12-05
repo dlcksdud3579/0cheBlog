@@ -27,14 +27,14 @@ description: mysql 실행하기
  (설치 오류시 `apt-get update` 이후 다시 시도 해볼것) 
  - 실행 하기전 아파치 서버를 재실행  
  - 실행 방법 `https:[URL]/phpmyadmin`
- - 상용법 [link]()
+ - 상용법 [link]([https://www.phpmyadmin.net/docs/](https://www.phpmyadmin.net/docs/))
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDczMzc2MCwtMTA2NjA2MzY4MSw1Mj
-UwNTEwMzgsLTEyMDc1OTcxNzYsMzEyNzcyMjIwLC0xMDYzNTk4
-NTgwLC0xNzU2MTA2MzA3XX0=
+eyJoaXN0b3J5IjpbLTExNzM5MjI5MTksLTEwNjYwNjM2ODEsNT
+I1MDUxMDM4LC0xMjA3NTk3MTc2LDMxMjc3MjIyMCwtMTA2MzU5
+ODU4MCwtMTc1NjEwNjMwN119
 -->
