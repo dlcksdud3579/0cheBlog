@@ -16,7 +16,7 @@ description: mysql 실행하기
  - 데이터베이스 사용: `USE DBname`
  - 테이블 생성 `CREATE TABLE tableName ()`
  - 유저 생성 `CREATE USER ID@localhost identified byDATA 'password'`
- - 유저 권한 `GRANT ALL PRIVILEGES *.* TO ID@localhost`
+ - 유저 권한 `GRANT ALL PRIVILEGES *.* TO ID@localhost`(모든  권한을 줌 `*.*` 에 DBname.Table로   )
  -  insert, drop, update 등 여러 명령어사 있음 
  -  자세한 명령어 [w3schools ](https://www.w3schools.com/sql/default.asp)
  
@@ -30,7 +30,7 @@ description: mysql 실행하기
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTgzOTEwNCw1MjUwNTEwMzgsLTEyMD
-c1OTcxNzYsMzEyNzcyMjIwLC0xMDYzNTk4NTgwLC0xNzU2MTA2
-MzA3XX0=
+eyJoaXN0b3J5IjpbLTE2MTUwMjg2MDIsNTI1MDUxMDM4LC0xMj
+A3NTk3MTc2LDMxMjc3MjIyMCwtMTA2MzU5ODU4MCwtMTc1NjEw
+NjMwN119
 -->
