@@ -30,10 +30,11 @@ description: mysql 실행하기+phpmyadmin 사용
  - 실행 방법 `https:[URL]/phpmyadmin`
  - 상용법: [phpmyadmin/docs](https://www.phpmyadmin.net/docs/)
 
+<br><br>
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzA5MTcyNywtMTA2NjA2MzY4MSw1Mj
-UwNTEwMzgsLTEyMDc1OTcxNzYsMzEyNzcyMjIwLC0xMDYzNTk4
-NTgwLC0xNzU2MTA2MzA3XX0=
+eyJoaXN0b3J5IjpbNzk3MzQwNTM5LC0xMDY2MDYzNjgxLDUyNT
+A1MTAzOCwtMTIwNzU5NzE3NiwzMTI3NzIyMjAsLTEwNjM1OTg1
+ODAsLTE3NTYxMDYzMDddfQ==
 -->
