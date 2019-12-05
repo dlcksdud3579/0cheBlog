@@ -1,6 +1,6 @@
 ---
 title:  small meeting tiny meeting Remake 계획
-data: "2019-11-24"
+date: "2019-11-24"
 description:  SMTM(교회 미팅 관리 앱)을 업데이트
 
 ---
@@ -17,5 +17,5 @@ description:  SMTM(교회 미팅 관리 앱)을 업데이트
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mzg1OTMxOV19
+eyJoaXN0b3J5IjpbLTE2MjA4OTM2ODMsLTQ5Mzg1OTMxOV19
 -->
